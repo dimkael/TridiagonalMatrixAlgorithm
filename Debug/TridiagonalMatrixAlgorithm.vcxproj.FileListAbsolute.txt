@@ -1,0 +1,2 @@
+C:\Users\crist\Source\Repos\TridiagonalMatrixAlgorithm\Debug\TridiagonalMatrixAlgorithm.exe
+C:\Users\crist\Source\Repos\TridiagonalMatrixAlgorithm\Debug\TridiagonalMatrixAlgorithm.pdb
