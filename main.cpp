@@ -37,7 +37,8 @@ double* TridiagonalMatrixAlgorithm(double** matrix, double* d, int N) {
 	double* a = new double[N];
 	double* b = new double[N];
 	double* x = new double[N];
-	double tmp;
+	double tmp, max;
+	int idx;
 
 	for (int i = 0; i < N; i++) {
 		a[i] = 0;

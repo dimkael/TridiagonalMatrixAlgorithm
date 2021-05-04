@@ -1,2 +1,4 @@
 ﻿  main.cpp
+C:\Users\crist\Source\Repos\TridiagonalMatrixAlgorithm\main.cpp(40,14): warning C4101: max: неиспользованная локальная переменная
+C:\Users\crist\Source\Repos\TridiagonalMatrixAlgorithm\main.cpp(41,6): warning C4101: idx: неиспользованная локальная переменная
   TridiagonalMatrixAlgorithm.vcxproj -> C:\Users\crist\Source\Repos\TridiagonalMatrixAlgorithm\Debug\TridiagonalMatrixAlgorithm.exe
